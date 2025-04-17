@@ -35,7 +35,7 @@ public class EmailDeleteTestCase {
 
     @AfterClass
     public void tearDown(){
-         driver.quit(); // Uncomment to close the browser after tests
+         driver.quit();
     }
 
     private static final By TITLE_PLACE = By.xpath("//span[@class='bog']/span");
