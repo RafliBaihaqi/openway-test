@@ -1,6 +1,6 @@
 # Selenium Java Test Case for Google User Access
 
-This repository contains Selenium Java test cases that automate browser actions using Google Chrome. In order to access your Google user account with a specified Chrome profile, you need to configure the user profile first. This document will guide you through the process.
+Due to Google blocking Selenium access by default, we need to use a workaround by configuring the browser to use a specific user profile, allowing Selenium to bypass these restrictions and access Google services.
 
 ## Prerequisites
 
