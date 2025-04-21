@@ -74,5 +74,9 @@ options.addArguments("profile-directory=" + profile);
 
 Check out the demo video below to see the project in action:
 
-[![Demo Video](https://www.youtube.com/watch?v=your-video-id)
+### Email Deletion Test
+[![Demo Video](https://img.youtube.com/vi/ihqsVoWJxhk/0.jpg)](https://www.youtube.com/watch?v=ihqsVoWJxhk)
+
+### Periplus Test 
+[![Demo Video](https://img.youtube.com/vi/lDqjy8lL_xk/0.jpg)](https://www.youtube.com/watch?v=lDqjy8lL_xk)
 
