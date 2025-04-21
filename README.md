@@ -68,3 +68,11 @@ String profile = "Profile 20";  // Replace with the Chrome profile you want to u
 ChromeOptions options = new ChromeOptions();
 options.addArguments("user-data-dir=C:\\Users\\" + user + "\\AppData\\Local\\Google\\Chrome\\User Data");
 options.addArguments("profile-directory=" + profile);
+```
+
+## Demo Video
+
+Check out the demo video below to see the project in action:
+
+[![Demo Video](https://www.youtube.com/watch?v=your-video-id)
+
